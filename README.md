@@ -84,5 +84,5 @@ This README and parts of the implementation guidance were assisted by **ChatGPT*
 
 ---
 
-### 📅 Deadline: 7 May 2025  
+### 📅 Deadline: 21 May 2025  
 Project completed and pushed with automated test verification.
